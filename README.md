@@ -1,5 +1,5 @@
 RStudio files for project works 
-ProfComms.r - Video games sales dataset analysis - 40 years of video game data analyzed 
+ProfComms.r - Video games sales dataset analysis - 40 years of video game data analyzed in Rstudio and visualized using Tableau
 
 Some characteristics of the dataset used: 
 <img width="864" alt="Screenshot 2024-01-18 at 6 38 21 PM" src="https://github.com/saheelchowdhury/rfiles/assets/153671296/6edb633a-9e9e-459d-bbab-8e8e48abc016">
