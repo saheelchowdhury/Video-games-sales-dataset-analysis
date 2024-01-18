@@ -19,9 +19,9 @@ Game publishers with multiple successful genre were separated :
 <img width="857" alt="Screenshot 2024-01-18 at 6 40 13 PM" src="https://github.com/saheelchowdhury/rfiles/assets/153671296/5f815541-a56f-4d16-8d96-67bd0b39151e">
 
 Finding out highest selling games by publishers - EA, Ubisoft, Rockstar - 2010 to 2020
-EA
+
 <img width="838" alt="Screenshot 2024-01-18 at 6 41 07 PM" src="https://github.com/saheelchowdhury/rfiles/assets/153671296/74d09fa5-bd2b-40af-8844-1a434b60e39a">
-Ubisoft
+
 <img width="832" alt="Screenshot 2024-01-18 at 6 49 55 PM" src="https://github.com/saheelchowdhury/Video-games-sales-dataset-analysis/assets/153671296/d3f226a4-aa72-4baa-872c-a1e886c68f63">
-Rockstar
+
 <img width="835" alt="Screenshot 2024-01-18 at 6 50 06 PM" src="https://github.com/saheelchowdhury/Video-games-sales-dataset-analysis/assets/153671296/975e8394-667e-4f15-bfc7-7f5609d999f9">
