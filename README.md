@@ -27,4 +27,4 @@ Ubisoft
 <img width="832" alt="Screenshot 2024-01-18 at 6 49 55 PM" src="https://github.com/saheelchowdhury/Video-games-sales-dataset-analysis/assets/153671296/d3f226a4-aa72-4baa-872c-a1e886c68f63">
 
 Rockstar
-<img width="630" alt="Screenshot 2024-01-18 at 6 50 06 PM" src="https://github.com/saheelchowdhury/Video-games-sales-dataset-analysis/assets/153671296/975e8394-667e-4f15-bfc7-7f5609d999f9">
+<img width="835" alt="Screenshot 2024-01-18 at 6 50 06 PM" src="https://github.com/saheelchowdhury/Video-games-sales-dataset-analysis/assets/153671296/975e8394-667e-4f15-bfc7-7f5609d999f9">
