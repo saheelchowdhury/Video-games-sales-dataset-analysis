@@ -6,6 +6,7 @@ Some characteristics of the dataset used:
 
 How the filteration process was approached to categorize data according to genre and publisher
 
+#top_publishers <- total_sales[order(total_sales$total_profit, decreasing = TRUE),][1:10,]
 <img width="870" alt="Screenshot 2024-01-18 at 6 38 50 PM" src="https://github.com/saheelchowdhury/rfiles/assets/153671296/d06d865f-3da6-4eb1-b528-52e1222a8c3e">
 
 Highest selling publishers by NA & EU region, year range 2010-2020
