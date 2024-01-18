@@ -10,6 +10,8 @@ How the filteration process was approached to categorize data according to genre
 
 Highest selling publishers by NA & EU region, year range 2010-2020
 
+#code : games_sales <- games_sales[games_sales$year >= 2010 & games_sales$year <= 2020,]
+
 <img width="869" alt="Screenshot 2024-01-18 at 6 39 35 PM" src="https://github.com/saheelchowdhury/rfiles/assets/153671296/f2b4293b-69f3-4339-bb5e-3d006a2a4787">
 
 Game publishers with multiple successful genre were separated : 
